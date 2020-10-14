@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://khamzah22:Aligarh@devbegin.kazav.mongodb.net/DevBegin?retryWrites=true&w=majority",
+    "jwtSecret":"myrealSecretToken"
+}
